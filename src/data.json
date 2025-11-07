@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1762439511024",
+      "name": "Alice",
+      "rollNo": "101",
+      "imagePath": "/uploads/1762439510990.jpeg"
+    },
+    {
+      "id": "1762441245719",
+      "name": "liam",
+      "rollNo": "102",
+      "imagePath": "/uploads/1762441245705.png"
+    },
+    {
+      "id": "1762441392463",
+      "name": "louis",
+      "rollNo": "103",
+      "imagePath": "/uploads/1762441392448.png"
+    },
+    {
+      "id": "1762441463666",
+      "name": "Niall",
+      "rollNo": "104",
+      "imagePath": "/uploads/1762441463660.jpg"
+    },
+    {
+      "id": "1762441513297",
+      "name": "Zayn",
+      "rollNo": "105",
+      "imagePath": "/uploads/1762441513293.jpg"
+    },
+    {
+      "id": "1762507490284",
+      "name": "Alice",
+      "rollNo": "101",
+      "imagePath": "/uploads/1762507490260.jpeg"
+    }
+  ]
+}
